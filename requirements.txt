@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+opendatasets
+NLTK
+wordcloud
+joblib
+ipykernel
